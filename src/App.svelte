@@ -55,8 +55,4 @@
     margin: 100px auto;
     padding: 0 20px;
   }
-
-  ul {
-    list-style: none;
-  }
 </style>
